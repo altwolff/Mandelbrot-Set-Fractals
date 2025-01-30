@@ -1,1 +1,1 @@
-This project generates a Mandelbrot set visualization, saving it as a PPM image file, with customizable image size and maximum iterations.
+This project generates a Mandelbrot set visualisation, saving it as a PPM file, with customisable image size and maximum iterations.
