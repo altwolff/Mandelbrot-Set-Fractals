@@ -7,7 +7,7 @@ This project generates a Mandelbrot set visualisation and saves it as a PPM file
 
 ## Compilation
 ##### To compile the program using `g++`, run:
-`g++ -o mandelbrot mandelbrot.cpp`
+`g++ -o mandelbrot main.cpp`
 
 ## Execution
 ##### Execute the compiled program with:
