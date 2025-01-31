@@ -12,3 +12,6 @@ This project generates a Mandelbrot set visualisation and saves it as a PPM file
 ## Execution
 ##### Execute the compiled program with:
 `./mandelbrot`  
+
+## Preview
+![Generated image](mandelbrot.png)
